@@ -1,7 +1,6 @@
 package com.example.basicui_2026
 
 import android.net.Uri
-import androidx.annotation.RawRes
 import androidx.compose.foundation.layout.*
 import androidx.compose.material3.*
 import androidx.compose.runtime.*
